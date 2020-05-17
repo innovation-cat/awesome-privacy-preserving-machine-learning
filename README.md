@@ -26,7 +26,18 @@ Some related github repositories
 
 ## Differential Privacy
 
+### Blog 
+
+* [Why differential privacy is awesome](https://desfontain.es/privacy/differential-privacy-awesomeness.html)
+
+
+### Papers
+
 * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133) - arXiv 2016
+
+* [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557v2) - arXiv 2016
+
+* [Learning differentially private recurrent language models](https://openreview.net/pdf?id=BJ0hF1Z0b) - ICLR 2018
 
   
 
